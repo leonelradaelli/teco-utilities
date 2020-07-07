@@ -9,5 +9,5 @@ En este repositorio se encontraran scripts relaccionados a la conexion con la in
  #####Conexion incubator e herramientas a traves de mediador: 
     sudo ./conexion-eicas
 
- #####Conectarse a la vpn a la infraestructura de Arquitectura:
+ #####Conectarse a la vpn a la infraestructura de Arquitectura sin problemas con docker y demas erramientas por mapeos incorrectos:
     sudo conectarVpn
